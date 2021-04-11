@@ -1,6 +1,6 @@
 <template>
 <div class="bg-gray-100 py-5 mx-auto">
-    <img class="mx-auto" src="src/assets/logo.png" alt="">
+    <img class="mx-auto" src="./assets/logo.png" alt="">
     <p class="text-center text-xl font-bold text-gray-700">{{title}}</p>
 </div>
 <div class="w-1/2 mx-auto text-center mt-[100px]">
